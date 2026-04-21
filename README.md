@@ -1,15 +1,15 @@
-# 🖥️ Semana da Tecnologia
+# • Semana da Tecnologia
 
 Projeto desenvolvido como simulado prático de HTML e CSS puros, simulando uma página de divulgação e inscrição para um evento de tecnologia.
 
-## 📄 Páginas
+## • Páginas
 
 - **index.html** — Página principal do evento, com benefícios, cronograma e link para inscrição
 - **inscricao.html** — Página de inscrição com formulário de nome e e-mail
 - **style.css** — Estilização compartilhada entre as duas páginas
 - **script.js** — Validação e mensagem de confirmação ao enviar o formulário
 
-## 🚀 Como usar
+## • Como usar
 
 1. Clone o repositório:
    ```bash
@@ -19,13 +19,13 @@ Projeto desenvolvido como simulado prático de HTML e CSS puros, simulando uma p
 
 > Não é necessário nenhum servidor ou instalação. Basta abrir o arquivo diretamente no navegador.
 
-## 🛠️ Tecnologias utilizadas
+## • Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (vanilla)
 
-## 📋 Requisitos atendidos
+## • Requisitos atendidos
 
 - Estrutura semântica com `<header>`, `<main>` e `<footer>`
 - Lista de benefícios com `<ul>`
@@ -35,7 +35,7 @@ Projeto desenvolvido como simulado prático de HTML e CSS puros, simulando uma p
 - Campos do formulário com 100% de largura
 - Notificação de confirmação ao enviar o formulário
 
-## 📁 Estrutura de arquivos
+## • Estrutura de arquivos
 
 ```
 semana-da-tecnologia/
