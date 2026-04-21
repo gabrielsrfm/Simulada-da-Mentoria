@@ -1,0 +1,129 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 6px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 6px;
+}
+
+header p {
+  color: #666;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 6px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+table thead tr {
+  background-color: #4a90d9;
+  color: #fff;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+form label {
+  display: block;
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 28px;
+  background-color: #4a90d9;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.btn:hover {
+  background-color: #357abd;
+}
+
+form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #4a90d9;
+  border-radius: 4px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+form button {
+  width: 100%;
+  padding: 12px;
+  background-color: #4a90d9;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #db1e1e;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  color: #999;
+  font-size: 0.85rem;
+  border-top: 1px solid #ddd;
+  padding-top: 16px;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
